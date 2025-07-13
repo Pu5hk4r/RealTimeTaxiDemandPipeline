@@ -25,9 +25,7 @@
 > Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
 > Automatic Orchestrate By Airflow Train model and predict at particular timr interval.
 
-![model1](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model1.png)
-![model2](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model2.png)
-![model3](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model3.png)
+![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/Animation.gif)
 
 ---
 
