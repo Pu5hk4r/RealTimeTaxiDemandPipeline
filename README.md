@@ -68,7 +68,7 @@ This project helps:
 | Processing   | Spark Structured Streaming | ETL, windowing, transformations              |
 | ML           | scikit-learn               | Demand prediction using Random Forest        |
 | Storage      | PostgreSQL                 | Store predictions                            |
-| Dashboard    | Streamlit                  | Visual live updates                          |
+| Dashboard    | Dash and grafana           | Visual live updates                          |
 | Orchestration| Airflow (MWAA)             | DAG scheduling (optional)                    |
 
 ---
