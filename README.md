@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -23,7 +24,7 @@
 
 > A full-stack real-time data pipeline for **predicting taxi demand across NYC** neighborhoods.  
 > Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
-> Automatic Orchestrate By Airflow Train model and predict at particular timr interval.
+> Automatic Orchestrate By Airflow Train model and predict at particular time interval.
 
 ![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/Animation.gif)
 
